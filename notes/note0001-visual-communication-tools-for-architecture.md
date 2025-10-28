@@ -26,6 +26,7 @@ Tools for use in documentation (Diagrams as a Code):
 - Azure Services Icons from [Azure-Design repository](https://github.com/David-Summers/Azure-Design)
 - [Official Azure Icons from Microsoft](https://learn.microsoft.com/en-us/azure/architecture/icons/)  
 - Visio files could be found in architectures from [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/browse/)
+- [Azure Icons](https://az-icons.com/)
 
 ## Animations
 

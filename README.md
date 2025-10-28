@@ -10,5 +10,6 @@ You can send you feedback, propositions, and questions to my email [ivan@ignatie
 - [Note 4: Azure Boards Backlog Structure](./notes/note0004-azure-boards-backlog-structure.md)
 - [Note 5: Boost Python Pipelines Speed by 3-5x](./notes/note0005-azure-devops-container-jobs.md)
 - [Note 6: Manage secrets in different notebooks environments](./notes/note0006-secrets-in-ds-notebooks.md)
+- [Note 7: Craft](./notes/note0007-craft.md)
 
 
